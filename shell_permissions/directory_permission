@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 751 dir_name #creates a directory called my_dir with permissions 751 in the working directory
+mkdir -m 751 dir_name #creates a directory with permissions 751 in the working directory
