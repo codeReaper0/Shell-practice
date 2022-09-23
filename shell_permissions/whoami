@@ -1,0 +1,3 @@
+#!/bin/bash
+id -u -n #prints the effective username of the current user
+whoami #also prints the effective username of the current user
