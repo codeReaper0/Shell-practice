@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod u+x file_name #adds execute permission to the owner of the file
