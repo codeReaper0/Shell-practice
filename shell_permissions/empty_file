@@ -1,2 +1,2 @@
 #!/bin/bash
-chown user file_name #changes the owner of the file 
+touch file_name #creates an empty file
