@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp new_group file_name #changes the group owner to new_group for the file file_name
