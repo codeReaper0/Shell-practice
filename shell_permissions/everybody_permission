@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod u+x, g+x, o+x file_name #adds execution permission to the owner, the group owner and the other users
