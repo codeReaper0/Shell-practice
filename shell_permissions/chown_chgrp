@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -hR vincent:staff . #changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
