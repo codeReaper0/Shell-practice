@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -h vincent:staff file_name #changes the owner and the group owner of file_name to vincent and staff respectively.
