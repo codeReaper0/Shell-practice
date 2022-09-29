@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --from=guilluame betty file_name #changes the owner of the file file_name to betty only if it is owned by the user guillaume.
