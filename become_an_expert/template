@@ -5,7 +5,7 @@ touch script/$file.sh
 echo '#!/bin/bash' > script/$file.sh
 echo '#Purpose: ' >> script/$file.sh
 echo '#Version: ' >> script/$file.sh
-echo '#Created Date: ' >> script/$file.sh
+echo '#Created Date: ' `date` >> script/$file.sh
 echo '#Modified Date: ' >> script/$file.sh
 echo '#Author: Tella Boluwatife' >> script/$file.sh
 echo '# START #' >> script/$file.sh
