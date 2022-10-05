@@ -1,0 +1,10 @@
+List of special variables and what they do
+- $* it stores the complete set of positional parameters as a single string
+- $# it is set to the number of arguments specified
+- $1 first argument
+- $2 second argument
+- $0 name of executed command
+- "$@" each quoted string treated as a seperate argument
+- $? exit status of last command
+- $$ PID of the current shell
+- $! PID of the last Bacground job
