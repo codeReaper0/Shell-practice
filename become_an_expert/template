@@ -10,3 +10,4 @@ echo '#Modified Date: ' >> script/$file.sh
 echo '#Author: Tella Boluwatife' >> script/$file.sh
 echo '# START #' >> script/$file.sh
 echo '# END #' >> script/$file.sh
+chmod 777 script/$file.sh
