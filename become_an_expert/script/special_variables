@@ -7,4 +7,4 @@ List of special variables and what they do
 - "$@" each quoted string treated as a seperate argument
 - $? exit status of last command
 - $$ PID of the current shell
-- $! PID of the last Bacground job
+- $! PID of the last Background job
