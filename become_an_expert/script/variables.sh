@@ -7,7 +7,8 @@
 # START #
 
 #Variable must begin with letters
-#Variables are case sensitive
+#Do not use hyphen (-) use underscore instead (_)
+#Variables are case and must not contain special characters 
 #Reserved word not allowed
 
 A=10
