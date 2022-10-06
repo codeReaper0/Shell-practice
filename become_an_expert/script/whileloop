@@ -1,0 +1,6 @@
+while [ condition ]
+do
+....
+....
+####
+done
